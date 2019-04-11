@@ -18,7 +18,7 @@
         "php": ">=7.0",
         "doctrine/dbal": "^2.5",
         "illuminate/support": "^5.5",
-        "grafite/formmaker": "master"
+        "grafite/formmaker": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0",
