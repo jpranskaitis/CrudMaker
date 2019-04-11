@@ -8,11 +8,17 @@
             "email": "mattlantz@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jpranskaitis/formmaker"
+        }
+    ],
     "require": {
         "php": ">=7.0",
         "doctrine/dbal": "^2.5",
         "illuminate/support": "^5.5",
-        "grafite/formmaker": "^1.1"
+        "grafite/formmaker": "master"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0",
